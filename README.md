@@ -271,6 +271,3 @@ This project can be extended by:
 
 ---
 
-# Author
-
-This project demonstrates a practical approach to building interpretable machine learning models for demand forecasting using Python.
